@@ -28,3 +28,7 @@ Arshad H
 ## 🤝 Note
 
 This project was developed as part of a team collaboration.
+
+## 📸 Output Demo
+
+![Output](images/output.png)
