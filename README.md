@@ -32,7 +32,7 @@ This project was developed as part of a team collaboration.
 
 ## 📸 Output Demo
 
-![Output](images/output.png)
+![Output](output.png)
 >>>>>>> cb16bc6 (Updated README with output image)
 
 ## 🎥 Demo Video
